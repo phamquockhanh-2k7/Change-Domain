@@ -1,9 +1,8 @@
 {
-  "redirects": [
+  "rewrites": [
     {
       "source": "/:path*",
-      "destination": "https://vuotlink.vip/:path*",
-      "permanent": false
+      "destination": "/api/index.js"
     }
   ]
 }
