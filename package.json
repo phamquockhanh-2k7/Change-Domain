@@ -1,0 +1,11 @@
+{
+  "name": "vercel-redirect-mask",
+  "version": "1.0.0",
+  "description": "Simple Redirect Serverless Function",
+  "main": "api/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
